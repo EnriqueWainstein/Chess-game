@@ -1,0 +1,16 @@
+pub mod attacks;
+pub mod board;
+pub mod eval;
+pub mod fen;
+pub mod history;
+mod magic_tables;
+pub mod makemove;
+pub mod movegen;
+pub mod moves;
+pub mod rules;
+pub mod search;
+pub mod state;
+pub mod time;
+pub mod types;
+pub mod uci;
+pub mod zobrist;
