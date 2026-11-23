@@ -1,6 +1,6 @@
 # chess-game
 
-Proyecto de ajedrez en Rust. Incluye una biblioteca (`../src/lib.rs`) y un binario
+Proyecto de ajedrez en Rust, utilizando markdown de requisitos y planes para aprender programacion con agentes. Incluye una biblioteca (`../src/lib.rs`) y un binario
 (`../src/main.rs`) con protocolo UCI para usar desde una GUI compatible.
 
 ## Requisitos
